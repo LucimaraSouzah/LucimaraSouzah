@@ -1,0 +1,7 @@
+- 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.
+- 📚 I currently take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete.
+- 🔰 I'll start an internship in February at CSN Mineração.
+- 🎲 In December I completed an IoT course at CEFET-BH, where I learned how to program a little in C ++ and how to use the MIT AppInventor.
+- 💻 Tenho estudado HTML e CSS por conta própria e pretendo me aprofundar em outras linguagens.
+- 📓 I like to read. I usually read about self-development, fiction and romance.
+-  🎮 My hobbies are watching series and playing valorant and league of legends.
