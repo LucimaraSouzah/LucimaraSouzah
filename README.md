@@ -8,7 +8,7 @@
 </div>  
 
 <div class="image">
-<img align="right" valign="top" width="500px" height="530px" src="https://user-images.githubusercontent.com/95291739/144950282-77d0095c-3ded-4400-8997-67f5df31c1f3.gif"/> <br/>
+<img align="right" valign="top" width="500px" height="570px" src="https://user-images.githubusercontent.com/95291739/144950282-77d0095c-3ded-4400-8997-67f5df31c1f3.gif"/> <br/>
 </div>
 
 <h2>🔮 A little about myself</h2>
