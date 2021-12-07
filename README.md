@@ -27,7 +27,7 @@ fiction and romance.<br/>
 - 🎮 My hobbies are playing valorant, watching series<br/>
 and practicing physical activities.<br/><br/>
 
-<img align="left" width="500px" height="450px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/></br>
+<img align="left" width="500px" height="480px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/></br>
 <h2>🔮 Um pouco sobre mim</h2>
 - 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis <br/>
 e eu tenho 19 anos.<br/>
