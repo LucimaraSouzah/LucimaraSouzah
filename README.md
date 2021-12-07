@@ -8,7 +8,7 @@
 </div>  
 
 <div class="image">
-<img align="right" valign="top" width="500px" height="480px" src="https://user-images.githubusercontent.com/95291739/144950282-77d0095c-3ded-4400-8997-67f5df31c1f3.gif"/> <br/>
+<img align="right" valign="top" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/144950282-77d0095c-3ded-4400-8997-67f5df31c1f3.gif"/>
 </div>
 
 <h2>🔮 A little about myself</h2>
@@ -20,7 +20,7 @@
 - 📓 I like to read. I usually read about self-development, fiction and romance.<br/>
 - 🎮 My hobbies are playing valorant, watching series and practicing physical activities.<br/><br/>
 
-<img align="left" width="500px" height="480px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/></br></br><br/>
+<img align="left" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/>
 <h2>🔮 Um pouco sobre mim</h2>
 - 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
 - 📚 Atualmente faço curso técnico de eletrotécnica no IFMG - Conselheiro Lafaiete.<br/>
