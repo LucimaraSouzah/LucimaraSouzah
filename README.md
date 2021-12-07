@@ -12,37 +12,23 @@
 </div>
 
 <h2>🔮 A little about myself</h2>
-- 🌼 Hello my name is Lucimara Aparecida de Souza Assis<br/>
-and I'm 19 years old. <br/>
-- 📚 I currently take a technical course in electrotechnical<br/>
-at IFMG - Conselheiro Lafaiete.<br/>
+- 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.
+- 📚 I currently take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete.<br/>
 - 🔰 I'll start an internship in February at CSN Mineração.<br/>
-- 🎲 In December I completed an IoT course at CEFET-BH, <br/>
-where I learned how to program a little in C ++ and how <br/>
- to use the MIT AppInventor.<br/>
-- 💻 Tenho estudado HTML e CSS por conta própria e <br/>
-pretendo me aprofundar em outras linguagens.<br/>
-- 📓 I like to read. I usually read about self-development, <br/>
-fiction and romance.<br/>
-- 🎮 My hobbies are playing valorant, watching series<br/>
-and practicing physical activities.<br/><br/>
+- 🎲 In December I completed an IoT course at CEFET-BH, where I learned how to program a little in C ++ and how to use the MIT AppInventor.<br/>
+- 💻 Tenho estudado HTML e CSS por conta própria e pretendo me aprofundar em outras linguagens.<br/>
+- 📓 I like to read. I usually read about self-development, fiction and romance.<br/>
+- 🎮 My hobbies are playing valorant, watching series and practicing physical activities.<br/><br/>
 
 <img align="left" width="500px" height="500px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/></br>
 <h2>🔮 Um pouco sobre mim</h2>
-- 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis <br/>
-e eu tenho 19 anos.<br/>
-- 📚 Atualmente faço curso técnico de eletrotécnica <br/>
-no IFMG - Conselheiro Lafaiete.<br/>
+- 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
+- 📚 Atualmente faço curso técnico de eletrotécnica no IFMG - Conselheiro Lafaiete.<br/>
 - 🔰 Iniciarei estágio em fevereiro na CSN Mineração. <br/>
-- 🎲 Em dezembro concluí um curso de IoT no CEFET-BH, <br/>
-onde aprendi a programar um pouco em C ++ e usar o   <br/> 
-MIT AppInventor.<br/>
-- 💻 Tenho estudado HTML e CSS por conta própria e <br/>
-pretendo me aprofundar em outras linguagens.<br/>
-- 📓 Gosto de ler. Costumo ler sobre autodesenvolvimento, <br/>
-ficção e romance.<br/>
-- 🎮 Meus hobbies são jogar valorant, assistir séries e <br/>
-praticar atividades físicas.<br/>
+- 🎲 Em dezembro concluí um curso de IoT no CEFET-BH, onde aprendi a programar um pouco em C ++ e usar o MIT AppInventor.<br/>
+- 💻 Tenho estudado HTML e CSS por conta própria e pretendo me aprofundar em outras linguagens.<br/>
+- 📓 Gosto de ler. Costumo ler sobre autodesenvolvimento, ficção e romance.<br/>
+- 🎮 Meus hobbies são jogar valorant, assistir séries e praticar atividades físicas.<br/>
 
 </br>
 <div style="display: inline_block">
