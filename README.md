@@ -21,6 +21,7 @@
 - 🎮 My hobbies are playing valorant, watching series and practicing physical activities.<br/><br/>
 
 <img align="left" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/>
+
 <h2>🔮 Um pouco sobre mim</h2>
 - 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
 - 📚 Atualmente faço curso técnico de eletrotécnica no IFMG - Conselheiro Lafaiete.<br/>
@@ -30,7 +31,7 @@
 - 📓 Gosto de ler. Costumo ler sobre autodesenvolvimento, ficção e romance.<br/>
 - 🎮 Meus hobbies são jogar valorant, assistir séries e praticar atividades físicas.<br/>
 
-</br>
+<br/>
 <div style="display: inline_block">
   <h2> 💻 I am studying  |  Estou estudando &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm interested | Estou interessada</h2>
   <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
