@@ -8,7 +8,7 @@
 </div>  
 
 <div class="image">
-<img align="right" valign="top" width="500px" height="430px" src="https://user-images.githubusercontent.com/95291739/144950282-77d0095c-3ded-4400-8997-67f5df31c1f3.gif"/> <br/>
+<img align="right" valign="top" width="500px" height="530px" src="https://user-images.githubusercontent.com/95291739/144950282-77d0095c-3ded-4400-8997-67f5df31c1f3.gif"/> <br/>
 </div>
 
 <h2>🔮 A little about myself</h2>
@@ -24,8 +24,8 @@ where I learned how to program a little in C ++ and how <br/>
 pretendo me aprofundar em outras linguagens.<br/>
 - 📓 I like to read. I usually read about self-development, <br/>
 fiction and romance.<br/>
-- 🎮 My hobbies are playing valorant, watching series and <br/>
-practicing physical activities.<br/><br/>
+- 🎮 My hobbies are playing valorant, watching series<br/>
+and practicing physical activities.<br/><br/>
 
 <img align="left" width="500px" height="450px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/></br>
 <h2>🔮 Um pouco sobre mim</h2>
