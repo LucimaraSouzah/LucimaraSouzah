@@ -8,8 +8,9 @@
 </div>  
 
 <div class="image">
-<img align="right" valign="top" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/144950282-77d0095c-3ded-4400-8997-67f5df31c1f3.gif"/>
+<img align="right" valign="top" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/145056360-a90eb6c6-4b5d-457a-8e18-484abef47053.gif"/>
 </div>
+
 
 <h2>🔮 A little about myself</h2>
 - 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.
@@ -20,7 +21,7 @@
 - 📓 I like to read. I usually read about self-development, fiction and romance.<br/>
 - 🎮 My hobbies are playing valorant, watching series and practicing physical activities.<br/><br/>
 
-<img align="left" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/144951130-43b59fa2-70b0-41ee-9a0b-1e64fb8fc2ff.gif"/>
+<img align="left" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/145056193-648ea68e-31d3-4a6c-9f12-afe353b73ace.gif"/>
 
 <h2>🔮 Um pouco sobre mim</h2>
 - 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
@@ -33,11 +34,17 @@
 
 <br/><br/>
 <div style="display: inline_block">
-  <h2> 💻 I am studying  |  Estou estudando &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm interested | Estou interessada</h2>
+  <h2> 💻 I am studying  |  Estou estudando &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌈 I'm interested | Estou interessada</h2>
+  <div style="display: inline_block">
   <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
   <img align="right" width="50px" height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+</div></br></br>
 
+<div align="center">
+<h2>💖 Thanks for reading | Obrigada por ler 💖</h2>
+</div>
+<p align="center">
+<img width="500px" height="400x" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> </p>
