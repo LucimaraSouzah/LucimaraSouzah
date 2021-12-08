@@ -14,7 +14,7 @@
 
 
 <h2>🔮 A little about myself</h2>
-- 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.
+- 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.</br>
 - 📚 I currently take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete.<br/>
 - 🔰 I'll start an internship in February at CSN Mineração.<br/>
 - 🎲 In December I completed an IoT course at CEFET-BH, where I learned how to program a little in C ++ and how to use the MIT AppInventor.<br/>
