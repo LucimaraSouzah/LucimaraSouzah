@@ -45,6 +45,10 @@
   <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div></br></br>
 
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucimarasouzah&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=midnight-purple" width="40%"/>
+</p>
+
 <div align="center">
 <h2>💖 Thanks for reading | Obrigada por ler 💖</h2>
 </div>
