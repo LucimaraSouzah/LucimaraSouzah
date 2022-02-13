@@ -16,7 +16,7 @@
 <h2>🔮 A little about myself</h2>
 - 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.</br>
 - 📚 I currently take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete.<br/>
-- 🔰 I'll start an internship in February at CSN Mineração.<br/>
+- 🔰 Intern at CSN Mineração.<br/>
 - 🎲 In December I completed an IoT course at CEFET-BH, where I learned how to program a little in C ++ and how to use the MIT AppInventor.<br/>
 - 💻 Tenho estudado HTML e CSS por conta própria e pretendo me aprofundar em outras linguagens.<br/>
 - 📓 I like to read. I usually read about self-development, fiction and romance.<br/>
@@ -28,7 +28,7 @@
 <h2>🔮 Um pouco sobre mim</h2>
 - 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
 - 📚 Atualmente faço curso técnico de eletrotécnica no IFMG - Conselheiro Lafaiete.<br/>
-- 🔰 Iniciarei estágio em fevereiro na CSN Mineração. <br/>
+- 🔰 Estagiando na CSN Mineração. <br/>
 - 🎲 Em dezembro concluí um curso de IoT no CEFET-BH, onde aprendi a programar um pouco em C ++ e usar o MIT AppInventor.<br/>
 - 💻 Tenho estudado HTML e CSS por conta própria e pretendo me aprofundar em outras linguagens.<br/>
 - 📓 Gosto de ler. Costumo ler sobre autodesenvolvimento, ficção e romance.<br/>
@@ -38,15 +38,24 @@
 <div style="display: inline_block">
   <h2> 💻 I am studying  |  Estou estudando &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌈 I'm interested | Estou interessada</h2>
   <div style="display: inline_block">
+  <img align="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
-  <img align="right" width="50px" height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg""/>
+  <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />                   
+  <img align="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="right" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="right" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="right" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="right" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div></br></br>
 
 <div align="center">
-<h2>💖 Thanks for reading | Obrigada por ler 💖</h2>
+<h3>💖 Thanks for reading | Obrigada por ler 💖</h3>
 </div>
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucimarasouzah&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=midnight-purple" width="40%"/>
