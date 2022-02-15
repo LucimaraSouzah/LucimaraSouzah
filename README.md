@@ -34,7 +34,7 @@
 - 📓 Gosto de ler. Costumo ler sobre autodesenvolvimento, ficção e romance.<br/>
 - 🎮 Meus hobbies são jogar valorant, assistir séries e praticar atividades físicas.<br/></div>
 
-<br/><br/>
+<br/><br/></br>
 <div style="display: inline_block">
   <h2> 💻 I am studying  |  Estou estudando &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌈 I'm interested | Estou interessada</h2>
   <div style="display: inline_block">
