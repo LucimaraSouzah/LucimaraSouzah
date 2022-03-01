@@ -1,4 +1,4 @@
-<h1>🪐 Welcome to my github / Bem-vindo ao meu github 🪐</h1>
+<h1 align=center>🪐 Welcome to my github / Bem-vindo ao meu github 🪐</h1>
 <h2> ☎️ Contact | Contato</h2>
 <div style="display: inline_block">
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=LucimaraSouzah&repo=github-visitors-badge&countColor=484848">
@@ -46,7 +46,6 @@
   <img align="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="right" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="right" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="right" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="right" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
