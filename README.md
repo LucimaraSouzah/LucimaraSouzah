@@ -15,7 +15,7 @@
 <div align="justify">
 <h2>🔮 A little about myself</h2>
 - 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.</br>
-- 📚 I currently take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete.<br/>
+- 📚 I currently take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete. And Systems Analysis and Development course at Estácio.<br/>
 - 🔰 Intern at CSN Mineração.<br/>
 - 🎲 In December I completed an IoT course at CEFET-BH, where I learned how to program a little in C ++ and how to use the MIT AppInventor.<br/>
 - 💻 Tenho estudado HTML e CSS por conta própria e pretendo me aprofundar em outras linguagens.<br/>
@@ -27,7 +27,7 @@
 <div align="justify">
 <h2>🔮 Um pouco sobre mim</h2>
 - 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
-- 📚 Atualmente faço curso técnico de eletrotécnica no IFMG - Conselheiro Lafaiete.<br/>
+- 📚 Atualmente faço curso técnico de eletrotécnica no IFMG - Conselheiro Lafaiete. E curso Análise e Desenvolvimento de Sistemas na Estácio.<br/>
 - 🔰 Estagiando na CSN Mineração. <br/>
 - 🎲 Em dezembro concluí um curso de IoT no CEFET-BH, onde aprendi a programar um pouco em C ++ e usar o MIT AppInventor.<br/>
 - 💻 Tenho estudado HTML e CSS por conta própria e pretendo me aprofundar em outras linguagens.<br/>
