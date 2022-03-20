@@ -2,8 +2,7 @@
 <h2> ☎️ Contact | Contato</h2>
 <div style="display: inline_block">
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=LucimaraSouzah&repo=github-visitors-badge&countColor=484848">
-<a href="Luucy#6228" target="_blank" alt="Luucy#6228" title="Luucy#6228"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="lucimarasouzah@gmail.com" target="_blank" alt="lucimarasouzah@gmail.com" title="lucimarasouzah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBptRFqmGdRDZxQPlqQMXCXlHljfxzFLndHlZzcmxWSsTQbGvcqPmtmknTfDfJrFcCsjKDs" target="_blank" alt="lucimarasouzah@gmail.com" title="lucimarasouzah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/lucimarasouza8/" target="_blank" alt="@lucimarasouza8" title="@lucimarasouza8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucimara-souza-1098b9181/" target="_blank" alt="https://www.linkedin.com/in/lucimara-souza-1098b9181/" title="https://www.linkedin.com/in/lucimara-souza-1098b9181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
