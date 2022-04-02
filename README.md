@@ -31,7 +31,7 @@
 - 🎮 My hobbies are playing valorant, watching series and practicing physical activities.<br/><br/></div>
 
 <div align=center>
-  <h2 align=center> 💻 Estou estudando | I am studying </h2> 
+  <h2 align=center> 💻 Tecnologias | Technologies </h2> 
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg""/>
