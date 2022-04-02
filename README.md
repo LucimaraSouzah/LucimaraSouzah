@@ -7,7 +7,7 @@
 </div>  
 
 <div class="image">
-<img align="right" valign="top" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/145056360-a90eb6c6-4b5d-457a-8e18-484abef47053.gif"/>
+<img align="right" valign="top" width="480px" height="400px" src="https://user-images.githubusercontent.com/95291739/145056360-a90eb6c6-4b5d-457a-8e18-484abef47053.gif"/>
 </div>
 <div align="justify">
 <h2>🔮 Um pouco sobre mim</h2>
@@ -19,7 +19,7 @@
 - 🎮 Meus hobbies são jogar valorant, assistir séries e praticar atividades físicas.<br/></div>
 
 
-<img align="left" width="500px" height="420px" src="https://user-images.githubusercontent.com/95291739/145056193-648ea68e-31d3-4a6c-9f12-afe353b73ace.gif"/>
+<img align="left" width="480px" height="400px" src="https://user-images.githubusercontent.com/95291739/145056193-648ea68e-31d3-4a6c-9f12-afe353b73ace.gif"/>
 
   <div align="justify">
 <h2>🔮 A little about myself</h2>
