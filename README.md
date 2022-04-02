@@ -30,7 +30,6 @@
 - 📓 I like to read. I usually read about self-development, fiction and romance.<br/>
 - 🎮 My hobbies are playing valorant, watching series and practicing physical activities.<br/><br/></div>
 
-<br/><br/>
 <div align=center>
   <h2 align=center> 💻 I am studying  |  Estou estudando </h2> 
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
