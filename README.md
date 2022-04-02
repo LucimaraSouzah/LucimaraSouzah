@@ -1,4 +1,4 @@
-<h1 align=center>🪐 Welcome to my github / Bem-vindo ao meu github 🪐</h1>
+<h1 align=center>🪐 Bem-vindo ao meu github / Welcome to my github 🪐</h1>
 <h2> ☎️ Contact | Contato</h2>
 <div style="display: inline_block">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrcmhcnjzCPDCbxXmtkDlWpFgcKKMPHktkGdltmNQvzLqFwwJDqCPpQHKbTKvQkgNwrbq" target="_blank" alt="lucimarasouzah@gmail.com" title="lucimarasouzah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
