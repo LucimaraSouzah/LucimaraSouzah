@@ -1,5 +1,5 @@
 <h1 align=center>🪐 Bem-vindo ao meu github / Welcome to my github 🪐</h1>
-<h2> ☎️ Contact | Contato</h2>
+<h2> ☎️ Contato | Contact </h2>
 <div style="display: inline_block">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrcmhcnjzCPDCbxXmtkDlWpFgcKKMPHktkGdltmNQvzLqFwwJDqCPpQHKbTKvQkgNwrbq" target="_blank" alt="lucimarasouzah@gmail.com" title="lucimarasouzah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/lucimarasouza8/" target="_blank" alt="@lucimarasouza8" title="@lucimarasouza8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,15 +31,16 @@
 - 🎮 My hobbies are playing valorant, watching series and practicing physical activities.<br/><br/></div>
 
 <div align=center>
-  <h2 align=center> 💻 I am studying  |  Estou estudando </h2> 
+  <h2 align=center> 💻 Estou estudando | I am studying </h2> 
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg""/>
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />                   
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
-<h2 align=center>🌈 I'm interested | Estou interessada </h2>
-<div align=center>           
+
+<div align=center> 
+<h2 align=center>🌈 Estou interessada | I'm interested</h2>
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />                              
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -47,7 +48,7 @@
 </div></br>
 
 <div align="center">
-<h3>💖 Thanks for reading | Obrigada por ler 💖</h3>
+<h3>💖 Obrigada por ler | Thanks for reading 💖</h3>
 </div>
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucimarasouzah&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=midnight-purple" width="40%"/>
