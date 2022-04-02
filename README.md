@@ -21,7 +21,7 @@
 
 
 <img align="left" width="450px" height="380px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/>
-  <div align="justify">
+  <div align="justify"></br>
 <h2>🔮 A little about myself</h2>
 - 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.</br>
 - 📚 I currently take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete. And Systems Analysis and Development course at Estácio.<br/>
