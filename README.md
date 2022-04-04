@@ -17,7 +17,7 @@
 - 🎲 Em dezembro concluí um curso de IoT no CEFET-BH, onde aprendi a programar um pouco em C ++ e usar o MIT AppInventor.<br/>
 - 💻 Tenho estudado HTML, CSS, JavaScript por conta própria e pretendo me aprofundar em outras linguagens.<br/>
 - 📓 Gosto de ler. Costumo ler sobre autodesenvolvimento, ficção e romance.<br/>
-- 🎮 Meus hobbies são jogar valorant, assistir séries e praticar atividades físicas.<br/></div>
+- 🎮 Meus hobbies são jogar valorant, assistir séries e praticar atividades físicas.<br/></br></div>
 
 
 <img align="left" width="450px" height="380px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/>
