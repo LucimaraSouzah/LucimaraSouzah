@@ -18,7 +18,7 @@
 </div><br>
 
 
-<img align="left" width="450px" height="380px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/>
+<img align="left" width="450px" height="380px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/><br>
 <div align="justify">
 <h2>🔮 A little about myself</h2>
 - 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.</br>
@@ -26,7 +26,7 @@
 - 🎲 My English is intermediate and in December 2021 I completed a course on IoT.<br/>
 - 💻 I study programming on my own, through video classes and documentation.<br/>
 - 📓 In my free time I try to read, watch series, play games and practice physical activities.
-</div></br><br><br>
+</div></br>
 
 <div align=center>
   <h2 align=center> 💻 Habilidades | Skills </h2> 
