@@ -15,7 +15,7 @@
 - 🎲 Meu inglês é intermediário e em dezembro de 2021 concluí um curso sobre IoT.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
 - 📓 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
-</div><br>
+</div><br><br>
 
 
 <img align="left" width="450px" height="380px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/>
