@@ -26,7 +26,7 @@
 - 🎲 My English is intermediate and in December 2021 I completed a course on IoT.<br/>
 - 💻 I study programming on my own, through video classes and documentation.<br/>
 - 📓 In my free time I try to read, watch series, play games and practice physical activities.
-</div></br></br></br>
+</div></br></br>
 
 <div align=center>
   <h2 align=center> 💻 Habilidades | Skills </h2> 
