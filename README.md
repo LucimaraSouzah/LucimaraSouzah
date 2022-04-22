@@ -15,7 +15,7 @@
 - 🎲 Meu inglês é intermediário e em dezembro de 2021 concluí um curso sobre IoT.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
 - 📓 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
-</div><br><br><br><br>
+</div><br>
 
 
 <img align="left" width="450px" height="380px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/>
@@ -26,7 +26,7 @@
 - 🎲 My English is intermediate and in December 2021 I completed a course on IoT.<br/>
 - 💻 I study programming on my own, through video classes and documentation.<br/>
 - 📓 In my free time I try to read, watch series, play games and practice physical activities.
-</div></br>
+</div></br><br><br><br>
 
 <div align=center>
   <h2 align=center> 💻 Habilidades | Skills </h2> 
