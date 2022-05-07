@@ -7,7 +7,7 @@
 </div>  
 
 
-<img align="right" valign="top" width="450px" height="350px" src="https://user-images.githubusercontent.com/95291739/161399900-a08a4b11-0d52-408c-b3be-ca55a8bfe803.gif"/>
+<img align="right" valign="top" width="400px" height="300px" src="https://user-images.githubusercontent.com/95291739/161399900-a08a4b11-0d52-408c-b3be-ca55a8bfe803.gif"/>
 <div align="justify">
 <h2>🔮 Um pouco sobre mim</h2>
 - 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
@@ -18,7 +18,7 @@
 </div><br>
 
 
-<img align="left" width="450px" height="380px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/><br></br></br>
+<img align="left" width="400px" height="300px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/>
 <div align="justify">
 <h2>🔮 A little about myself</h2>
 - 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.</br>
