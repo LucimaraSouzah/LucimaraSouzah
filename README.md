@@ -51,9 +51,6 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div></br>
 
-<div align="center">
-<h3>💖 Obrigada por ler | Thanks for reading 💖</h3>
-</div>
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucimarasouzah&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=midnight-purple" width="40%"/>
 </p>
