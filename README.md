@@ -1,6 +1,6 @@
-<h1 align=center>🪐 Bem-vindo ao meu github / Welcome to my github 🪐</h1>
+<h1 align=center>🪐 Bem-vindo ao meu github 🪐</h1>
 <div align="center">
-<h3> ☎️ Contato | Contact </h3>
+<h3> ☎️ Contato </h3>
 <div style="display: inline_block">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrcmhcnjzCPDCbxXmtkDlWpFgcKKMPHktkGdltmNQvzLqFwwJDqCPpQHKbTKvQkgNwrbq" target="_blank" alt="lucimarasouzah@gmail.com" title="lucimarasouzah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/lucimarasouza8/" target="_blank" alt="@lucimarasouza8" title="@lucimarasouza8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -10,7 +10,7 @@
 </div>
 
 <div align="justify">
-<h2 align="center">🔮 Um pouco sobre mim</h2>
+<h2 align="center">🔮 Sobre mim</h2>
 - 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 19 anos e sou de Minas Gerais.<br/>
 - 📚 Sou graduanda em Análise e Desenvolvimento de Sistemas na Estácio. E faço curso técnico de eletrotécnica no IFMG.<br/>
 - 🎲 Meu inglês é intermediário e em dezembro de 2021 concluí um curso sobre IoT.<br/>
@@ -19,7 +19,7 @@
 </div><br>
 
 <div align=center>
-  <h2 align=center> 💻 Habilidades | Skills </h2>
+  <h2 align=center> 💻 Habilidades </h2>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,7 +31,7 @@
 </div>
 
 <div align=center> 
-<h2 align=center>🌈 Estou interessada | I'm interested</h2>
+<h2 align=center>🌈 Estou interessada</h2>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
