@@ -1,33 +1,22 @@
 <h1 align=center>🪐 Bem-vindo ao meu github / Welcome to my github 🪐</h1>
+<div align="center">
 <h3> ☎️ Contato | Contact </h3>
 <div style="display: inline_block">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrcmhcnjzCPDCbxXmtkDlWpFgcKKMPHktkGdltmNQvzLqFwwJDqCPpQHKbTKvQkgNwrbq" target="_blank" alt="lucimarasouzah@gmail.com" title="lucimarasouzah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/lucimarasouza8/" target="_blank" alt="@lucimarasouza8" title="@lucimarasouza8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.discordapp.com/users/279691323756380161" target="_blank" alt="https://www.discordapp.com/users/279691323756380161"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lucimara-souza-1098b9181/" alt="https://www.linkedin.com/in/lucimara-souza-1098b9181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>  
+</div> 
+</div>
 
-
-<img align="right" valign="top" width="400px" height="300px" src="https://user-images.githubusercontent.com/95291739/161399900-a08a4b11-0d52-408c-b3be-ca55a8bfe803.gif"/>
 <div align="justify">
-<h2>🔮 Um pouco sobre mim</h2>
-- 🌼 Olá, meu nome é Lucimara Aparecida de Souza Assis e eu tenho 19 anos.<br/>
-- 📚 Sou graduanda em Análise e Desenvolvimento de Sistemas na Estácio. E faço curso técnico de eletrotécnica no IFMG - Conselheiro Lafaiete.<br/>
+<h2 align="center">🔮 Um pouco sobre mim</h2>
+- 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 19 anos e sou de Minas Gerais.<br/>
+- 📚 Sou graduanda em Análise e Desenvolvimento de Sistemas na Estácio. E faço curso técnico de eletrotécnica no IFMG.<br/>
 - 🎲 Meu inglês é intermediário e em dezembro de 2021 concluí um curso sobre IoT.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
 - 📓 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
 </div><br>
-
-
-<img align="left" width="400px" height="300px" src="https://user-images.githubusercontent.com/95291739/161400161-a88a5bb0-7835-4b7d-8f30-fd19417008ed.gif"/>
-<div align="justify">
-<h2>🔮 A little about myself</h2>
-- 🌼 Hello my name is Lucimara Aparecida de Souza Assis and I'm 19 years old.</br>
-- 📚 I am a graduation student in Systems Analysis and Development at Estácio. And I take a technical course in electrotechnical at IFMG - Conselheiro Lafaiete.<br/>
-- 🎲 My English is intermediate and in December 2021 I completed a course on IoT.<br/>
-- 💻 I study programming on my own, through video classes and documentation.<br/>
-- 📓 In my free time I try to read, watch series, play games and practice physical activities.
-</div></br></br>
 
 <div align=center>
   <h2 align=center> 💻 Habilidades | Skills </h2>
