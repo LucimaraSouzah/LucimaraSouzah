@@ -11,7 +11,7 @@
 
 <div align="justify">
 <h2 align="center">🔮 Sobre mim</h2>
-- 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 19 anos e sou de Minas Gerais.<br/>
+- 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 20 anos e sou de Minas Gerais.<br/>
 - 📚 Sou graduanda em Análise e Desenvolvimento de Sistemas na Estácio. E faço curso técnico de eletrotécnica no IFMG.<br/>
 - 🎲 Meu inglês é intermediário e em dezembro de 2021 concluí um curso sobre IoT.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
