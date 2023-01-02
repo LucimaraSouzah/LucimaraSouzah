@@ -1,4 +1,4 @@
-<h1 align=center>🪐 Bem-vindo ao meu github 🪐</h1>
+<h1 align=center>🪐 Bem-vindo(a) ao meu github 🪐</h1>
 <div align="center">
 <h3> ☎️ Contato </h3>
 <div style="display: inline_block">
@@ -12,10 +12,10 @@
 <div align="justify">
 <h2 align="center">🔮 Sobre mim</h2>
 - 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 20 anos e sou de Minas Gerais.<br/>
-- 📚 Sou graduanda em Análise e Desenvolvimento de Sistemas na Estácio. E faço curso técnico de eletrotécnica no IFMG.<br/>
-- 🎲 Estou buscando melhorar meu inglês e em dezembro de 2021 concluí um curso sobre IoT.<br/>
+- 📚 Faço Análise e Desenvolvimento de Sistemas na Estácio.<br/>
+- 📝 Sou certificada na DP-900, AZ-900 e AI-900 da Microsoft.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
-- 📓 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
+- 🎮 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
 </div><br>
 
 <div align=center>
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -46,7 +47,6 @@
 <h2 align=center>🌈 Estou interessada</h2>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
