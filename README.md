@@ -13,7 +13,7 @@
 <h2 align="center">🔮 Sobre mim</h2>
 - 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 20 anos e sou de Minas Gerais.<br/>
 - 📚 Faço Análise e Desenvolvimento de Sistemas na Estácio.<br/>
-- 📝 Sou certificada na DP-900, AZ-900 e AI-900 da Microsoft.<br/>
+- 📝 Sou certificada na DP-900, AZ-900, AI-900 e SC-900 da Microsoft.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
 - 🎮 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
 </div><br>
