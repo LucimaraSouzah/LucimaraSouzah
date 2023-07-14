@@ -35,6 +35,7 @@
 ![TypeScript][typescript-shield]
 ![Node.js][nodejs-shield]
 ![MySQL][mysql-shield]
+![C#][csharp-shield]
 ![.NET][dotnet-shield]
 ![C#][csharp-shield]
 ![NestJS][nestjs-shield]
