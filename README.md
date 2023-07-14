@@ -53,7 +53,7 @@
 </table>
 
 ---
-### ⚙️ **Techs utilizadas nos repositórios**
+### ⚙️ **Techs utilizadas nos projetos**
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucimarasouzah&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=midnight-purple" width="40%"/>
 </p>
