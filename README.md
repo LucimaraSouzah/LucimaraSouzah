@@ -31,11 +31,11 @@
 ![Figma][figma-shield]
 ![Adobe XD][adobexd-shield]
 ![Adobe Photoshop][photoshop-shield]
+![C#][csharp-shield]
 ![Microsoft][microsoft-shield]
 ![TypeScript][typescript-shield]
 ![Node.js][nodejs-shield]
 ![MySQL][mysql-shield]
-![C#][csharp-shield]
 ![.NET][dotnet-shield]
 ![NestJS][nestjs-shield]
 
