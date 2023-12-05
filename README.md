@@ -9,8 +9,8 @@
 ---
 ### 🔮 **Sobre mim**
  
-- 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 20 anos e sou de Minas Gerais.<br/>
-- 💻 Trabalho como **Desenvolvedora Full-Sack utilizando C# .NET, SQL Server e Angular**.<br/>
+- 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 21 anos e sou de Minas Gerais.<br/>
+- 💻 Trabalho como **Desenvolvedora Júnior Full-Sack utilizando C# .NET, SQL Server e Angular**.<br/>
 - 📚 Faço **Análise e Desenvolvimento de Sistemas** na Estácio.<br/>
 - 📝 Sou certificada na **DP-900**, **AZ-900**, **AI-900** e **SC-900** da **Microsoft**.<br/>
 - 🎮 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
@@ -47,7 +47,10 @@
       <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"/>
     </td>
     <td align="center">
-      <img width="100" src="https://k21academy.com/wp-content/uploads/2020/07/AZ-204-Logo.png"/>
+      <img width="100" src="https://angular.io/assets/images/logos/angular/angular.png"/>
+    </td>
+    <td align="center">
+      <img width="100" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
     </td>
   </tr>
 </table>
