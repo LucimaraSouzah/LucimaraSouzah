@@ -17,7 +17,6 @@
 
 ---
 ### 💻 **Habilidades**
-![Gmail][gmail-shield]
 ![HTML5][html-shield]
 ![CSS3][css-shield]
 ![JavaScript][javascript-shield]
