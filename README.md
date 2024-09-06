@@ -11,7 +11,7 @@
  
 - 🌼 Meu nome é Lucimara Aparecida de Souza Assis, tenho 22 anos e sou de Minas Gerais.<br/>
 - 💻 Trabalho como **Desenvolvedora Júnior Full-Sack utilizando C# .NET, SQL Server e Angular**.<br/>
-- 📚 Formada em **Análise e Desenvolvimento de Sistemas** (Estácio), agora fazendo **pós em Engenharia de Software** (Descomplica).<br/>
+- 📚 Formada em **Análise e Desenvolvimento de Sistemas** (Estácio), agora fazendo pós em **Engenharia de Software** (Descomplica).<br/>
 - 📝 Sou certificada na **DP-900**, **AZ-900**, **AI-900** e **SC-900** da **Microsoft**.<br/>
 - 🎮 No meu tempo livre procuro ler, assistir séries, jogar e praticar atividades físicas.
 
