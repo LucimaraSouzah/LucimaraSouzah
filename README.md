@@ -90,4 +90,4 @@
 <!-- Urls -->
 [my-linkedin]: https://www.linkedin.com/in/lucimara-souzah/
 [my-gmail]: https://mail.google.com/mail/?view=cm&to=lucimarasouzah@gmail.com
-[my-instagram]: https://www.instagram.com/lucimarasouza8/
+[my-instagram]: https://www.instagram.com/lucimaradev/
